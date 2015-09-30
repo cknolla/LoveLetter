@@ -70,7 +70,7 @@ public class ClientWindow {
 	private Button dealButton = new Button("Deal");
 	private Button playButton = new Button("Play Card");
 	private Button newGameButton = new Button("New Game");
-	private Button quitButton = new Button("Fuck this");
+	private Button quitButton = new Button("Screw this");
 	
 	// CARDBOXES
 //	private CardBox opponentCardBox = new CardBox();
