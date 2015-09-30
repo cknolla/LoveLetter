@@ -1,0 +1,24 @@
+
+.window {
+	-fx-background-image: url("woodBack.jpg");
+	-fx-background-repeat: repeat;
+}	
+
+.label {
+	-fx-font-size: 16px;
+	-fx-font-family: serif;
+	-fx-text-fill: white;
+	-fx-effect: dropshadow(three-pass-box, white, 10, 0.3, 0, 0);
+}
+
+.statusMessages {
+	-fx-padding: 10;
+}
+
+.announcement {
+	-fx-font-weight: bolder;
+}
+
+.button {
+	-fx-min-width: 100px;
+}
